@@ -128,5 +128,6 @@ nav .nav-links{
 
 .col-2 .feature-img img:hover{
     transform: translate(-20px,10px) rotate(0);
+    transition: .5s ease;
 }
 
